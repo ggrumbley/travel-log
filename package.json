@@ -30,7 +30,8 @@
     "eslint": "^9.26.0",
     "eslint-plugin-format": "^1.0.1",
     "husky": "^9.1.7",
-    "lint-staged": "^15.5.1"
+    "lint-staged": "^15.5.1",
+    "zod": "^4.2.1"
   },
   "lint-staged": {
     "*": "pnpm lint --no-warn-ignored"
