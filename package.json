@@ -20,6 +20,7 @@
     "@nuxt/icon": "1.15.0",
     "@nuxtjs/color-mode": "4.0.0",
     "@tailwindcss/vite": "^4.1.13",
+    "better-auth": "^1.4.10",
     "drizzle-orm": "^0.45.1",
     "nuxt": "^3.17.1",
     "tailwindcss": "^4.1.13",
